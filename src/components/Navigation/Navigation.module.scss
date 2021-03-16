@@ -1,0 +1,21 @@
+.activeLink {
+  color: brown !important;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+
+  a {
+    color: aqua;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: rgb(204, 176, 18);
+  }
+
+  a:active {
+    color: brown;
+  }
+}

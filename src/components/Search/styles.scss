@@ -1,0 +1,33 @@
+.ais-SearchBox {
+  margin: 1em 0;
+}
+
+.ais-Hits-list {
+  list-style: none;
+}
+
+.ais-Highlight-highlighted {
+  color: red;
+}
+
+.ais-Pagination {
+  margin-top: 1em;
+}
+
+.ais-Pagination-list {
+  list-style: none;
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.ais-InstantSearch {
+  max-width: 960px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.ais-Hits-item {
+  margin-bottom: 1em;
+  width: calc(50% - 1rem);
+}
